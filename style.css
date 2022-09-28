@@ -1,0 +1,42 @@
+.navbar-brand{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* home */
+.carousel-caption{
+    background-color: rgba(51, 50, 47, 0.671);
+    font-size: 50px;
+}
+
+/* contact */
+.judul{
+    background-color: rgb(243, 239, 239);margin-right: 20px; margin-left: 2px;
+}
+
+.subJudul{
+    text-align:center; 
+    margin-bottom: 30px
+}
+
+.firstname{
+    border-color:rgba(0, 0, 0, 0.137);
+}
+
+.lastname{
+    border-color: rgba(0, 0, 0, 0.137);
+    float: right ; 
+    margin-right: 18pt; 
+}
+
+#email, #Message, #additionalDetails{
+    border-color:rgba(0, 0, 0, 0.137);
+}
+
+.btnsubmit{
+    background-color:dodgerblue ; 
+    color:white; 
+    border-color:aquamarine; 
+    border-radius: 2px
+}
+
